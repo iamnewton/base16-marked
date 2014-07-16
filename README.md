@@ -8,13 +8,13 @@ This theme was built with [Base16 Builder](https://github.com/chriskempson/base1
 ## Installation
 
 ```bash
-git clone git://github.com/chrisopedia/base16-marked.git Base16
-ln -s Base16/* ~/Library/Application\ Support/Marked/Custom\ CSS/
+$ git clone https://github.com/chrisopedia/base16-marked.git Base16
+$ ln -s Base16/* ~/Library/Application\ Support/Marked/Custom\ CSS/
 ```
 
 ## Update
 
 ```bash
-cd Base16
-git pull
+$ cd Base16
+$ git pull
 ```
